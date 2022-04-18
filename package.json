@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "scripts": {
+    "start": "snowpack dev"
+  }
+}
